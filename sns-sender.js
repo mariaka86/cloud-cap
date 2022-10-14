@@ -1,6 +1,6 @@
 'use strict';
 
-const AWS = require ('aws-sdk');
+const AWS = require ('./node_module/aws-sdk');
 
 //configure
 //credentials CAUTION
